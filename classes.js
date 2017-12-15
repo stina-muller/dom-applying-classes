@@ -23,6 +23,9 @@ function two () {
   var two = document.getElementById('two')
   two.classList.add('green')
 }
-// CREATE FUNCTION three HERE
 
+function three () {
+  var three = document.getElementById('three')
+  three.classList.add("yellow")
+}
 // CREATE FUNCTION makeVisible HERE
